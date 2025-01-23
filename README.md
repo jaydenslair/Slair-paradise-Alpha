@@ -1,2 +1,2 @@
-# Slair-paradise-Alpha
-this is only a test 
+# Slair-paradise
+this is only in development
